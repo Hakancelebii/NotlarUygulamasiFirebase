@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "63500070339",
+    "firebase_url": "https://udemyegitim-eeeb9-default-rtdb.firebaseio.com",
+    "project_id": "udemyegitim-eeeb9",
+    "storage_bucket": "udemyegitim-eeeb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63500070339:android:98b5a11240ed13e7586176",
+        "android_client_info": {
+          "package_name": "com.example.notlar_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9bA0vKEdVtpx3kwCDcZUPx9vmDAW1ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63500070339:android:8f0f24203e8a62b5586176",
+        "android_client_info": {
+          "package_name": "com.example.notlar_uygulamasibir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9bA0vKEdVtpx3kwCDcZUPx9vmDAW1ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63500070339:android:035c796a13d77817586176",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9bA0vKEdVtpx3kwCDcZUPx9vmDAW1ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63500070339-tljvd039a7q29ladg2msctuorf080j8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
